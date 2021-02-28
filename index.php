@@ -6,10 +6,6 @@
 </head>
 <body>
 	<div id="auth-data">OAuth 2.0 data from REQUEST:
-		<pre><?php
-			print_r($_REQUEST);
-			?>
-		</pre>
 	</div>
 	<div id="name">
 		<?php
